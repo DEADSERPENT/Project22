@@ -5,6 +5,12 @@ assessment specification, and returns a structured result: `Accepted` with the p
 the full set of validation errors, or `Rejected` with a single `MALFORMED_INPUT` error when the input cannot
 be read as an order at all.
 
+## Solution Walkthrough
+
+The complete solution walkthrough recording is available here:
+
+[Project22 Solution Walkthrough – Google Drive](https://drive.google.com/drive/folders/1pWOP7edaMXys37KZFt8NUzVAwLgdCrRI?usp=sharing)
+
 ## 1. Build and test
 
 Requires the .NET 10 SDK (verified against `10.0.401`).
